@@ -22,4 +22,4 @@ instalando o NodeJS e o Angular e codando um pouco.
 
 2# dia
 
-Criantela de Cadastro/login "Admin e Usuario".
+Criando a tela de Cadastro e Login 
